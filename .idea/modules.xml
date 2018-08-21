@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/authandkafka.iml" filepath="$PROJECT_DIR$/.idea/authandkafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-auth-server/ms-auth-server.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-auth-server/ms-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-config-server/ms-config-server.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-config-server/ms-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-discovery/ms-discovery.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-discovery/ms-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-gateway/ms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-mail/ms-mail.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-mail/ms-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-auth/ms-user/ms-user.iml" filepath="$PROJECT_DIR$/microservices-auth/ms-user/ms-user.iml" />
+    </modules>
+  </component>
+</project>
